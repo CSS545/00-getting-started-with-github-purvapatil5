@@ -1,4 +1,4 @@
-## HW0 (Question and Answers)
+## HW0 - Getting Started
 
 #### Intended platform for the final project (e.g. Android, iOS)
 
